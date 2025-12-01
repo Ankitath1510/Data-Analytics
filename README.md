@@ -1,4 +1,4 @@
-## 📊 Free Self-Study Roadmap – Data Analyst (6 Months)
+## Free Self-Study Roadmap – Data Analyst (6 Months)
 
 This roadmap is designed for complete beginners (especially non-tech) to become job-ready Data Analysts using **only free resources** in **Hindi & Marathi**.
 
